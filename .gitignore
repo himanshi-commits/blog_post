@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# SQLite database
+*.db
+*.sqlite3
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
